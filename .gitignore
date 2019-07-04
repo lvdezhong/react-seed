@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+/package-lock.json
+/yarn.lock
+
+# production
+/dist
+
+# ide
+/.vscode
+/.idea
+
+# misc
+.DS_Store
+npm-debug.log*

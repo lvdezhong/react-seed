@@ -18,4 +18,5 @@ module.exports = {
   env,
   isProductEnv,
   getDir,
+  port: '3001',
 }
